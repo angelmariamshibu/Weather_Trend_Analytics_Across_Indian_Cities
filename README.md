@@ -7,10 +7,10 @@ This project analyses historical weather data for major Indian cities, including
 
 Objectives:
 
-•	Analyse long-term trends of weather parameters across cities.
-•	Compare temperature, humidity, rainfall, wind and pressure region-wise
-•	Visualize trends with charts and graphs
-•	Perform basic forecasting of future weather trends
+- Analyse long-term trends of weather parameters across cities.
+- Compare temperature, humidity, rainfall, wind and pressure region-wise
+-	Visualize trends with charts and graphs
+- Perform basic forecasting of future weather trends
 
 Methodology:
 
@@ -21,11 +21,11 @@ Methodology:
 5.	Forecasting: Linear Regression for predicting future trends
 
 Tech Stack:
-•	Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-•	Tools: Google Colab, Git, GitHub
-•	Data Sources: Open-Meteo (Historical Weather API)
+-	Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+-	Tools: Google Colab, Git, GitHub
+-	Data Sources: Open-Meteo (Historical Weather API)
 
 Expected Outcomes:
-•	Visual trends of temperature, rainfall, humidity, wind, and pressure
-•	City-wise climate comparisons
-•	Basic future trend forecasting
+-	Visual trends of temperature, rainfall, humidity, wind, and pressure
+-	City-wise climate comparisons
+- Basic future trend forecasting
